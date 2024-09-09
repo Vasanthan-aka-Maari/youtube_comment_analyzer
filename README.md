@@ -4,7 +4,7 @@ A tool to analyze comments on YouTube videos.
 
 ## How to use
 
-1. Clone the 
+1. Clone the Repo
 ```
 git clone https://github.com/Vasanthan-aka-Maari/youtube-comment-analyzer.git
 ```
